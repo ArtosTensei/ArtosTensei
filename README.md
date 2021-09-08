@@ -1,4 +1,5 @@
-### Hi there 👋
+### Student of Peter the Great St. Petersburg Polytechnic University 👋
+## C# Developer
 
 <!--
 **ArtosTensei/ArtosTensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
